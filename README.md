@@ -1,9 +1,7 @@
 # Real-time-monitoring-system-for-aquaculture-using-IOT
 
 Promote effective fisheries management and improve standards of fisheries management. Provide the technical and general knowledge necessary for competent fisheries management. Advance the standing of fisheries management as a profession.
+
 Aquaculture is one of the flourishing sectors in India as it contributes nearly 1.07% of the GDP. It is estimated that the fish requirement of the country by 2025 would be the order of 16 million tonnes but due to overfishing natural fisheries have been depleted as a result commercial aqua culture came into existence. But in recent years, commercial aquaculture has faced many problems due to sudden climatic fluctuation which leads to changes in water quality parameters. Aqua farmers are currently depending on manual testing to know the water parameters. This will consume time and be inaccurate because water quality parameters may alter with time. In order to overcome this problem, technology should be brought to aqua culture which increases productivity and minimizes the losses by constantly monitoring water quality parameters.
 
-Developing the capacity of farmers so that, through their own observations and reasoning, they are able to solve limitations to the implementation of rural aquaculture projects, thereby improving the productivity of household farm units
-Protecting water sources.
-Generating a reliable database on production and the costs of different production systems.
-Achieving the capacity of farmers to market their agricultural products, including those of aquaculture origin, which contributes to income generation.
+Developing the capacity of farmers so that, through their own observations and reasoning, they are able to solve limitations to the implementation of rural aquaculture projects, thereby improving the productivity of household farm units Protecting water sources.Generating a reliable database on production and the costs of different production systems.Achieving the capacity of farmers to market their agricultural products, including those of aquaculture origin, which contributes to income generation.
