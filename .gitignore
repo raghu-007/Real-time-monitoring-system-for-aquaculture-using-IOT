@@ -1,0 +1,41 @@
+# ==== Arduino / Embedded ====
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+*.lst
+*.sym
+build/
+*.d
+
+# ==== IDE Files ====
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==== OS Junk ====
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ==== Installers & Binaries ====
+*.exe
+*.msi
+*.cab
+*.dll
+*.iso
+
+# ==== Secrets ====
+secrets.h
+credentials.h
+
+# ==== Misc ====
+*.log
+*.tmp
